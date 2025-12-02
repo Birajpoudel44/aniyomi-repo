@@ -1,0 +1,14 @@
+{
+  "repoVersion": 1,
+  "extensions": [
+    {
+      "name": "AnimeWorldIndia",
+      "pkg": "eu.aniyomi.extension.animeworldindia",
+      "apk": "AnimeWorldIndia-v1.0.0.apk",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "lang": "hi",
+      "nsfw": false
+    }
+  ]
+}
